@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <array name="preloaded_fonts" translatable="false">
+        <item>@font/</item>
+        <item>@font/allerta</item>
+        <item>@font/archivo</item>
+        <item>@font/archivo_bold</item>
+        <item>@font/arimo_bold</item>
+        <item>@font/bangers</item>
+        <item>@font/contrail_one</item>
+        <item>@font/domine_bold</item>
+        <item>@font/doppio_one</item>
+        <item>@font/merriweather_sans_light</item>
+        <item>@font/telex</item>
+        <item>@font/timmana</item>
+    </array>
+</resources>
